@@ -1,5 +1,4 @@
 import React from "react";
-import axios from "axios";
 import Counter from "../components/Counter";
 import Items from "../components/Items";
 import Done from "../components/Done";
